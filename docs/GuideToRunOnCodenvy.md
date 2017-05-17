@@ -10,8 +10,6 @@
 
 You'll be asked to sign up at Codenvy.io before getting your workspace.
 
-![](img/codenvy-create-account.png)
-
 
 ### Choose a test or example
 
