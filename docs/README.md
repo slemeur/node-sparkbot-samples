@@ -6,7 +6,7 @@ This guide details how to run your bot locally  (ie, running on a dev machine or
 3. Expose your bot 
 4. Create a Spark Webhook 
 
-Looking for a Cloud development environment, check the guide [code and debug on Cloud9](GuideToRunOnCloud9.md).
+Looking for a Cloud development environment, check the guide [code and debug on Codenvy](GuideToRunOnCodenvy.md).
 
 ## Start you bot
 
