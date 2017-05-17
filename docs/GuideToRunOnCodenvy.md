@@ -4,7 +4,9 @@
 
 ## Quick start:
 
-### Use the following button to get a ready-to use Cisco Spark workspace.
+[![Play with Cisco Spark](https://codenvy.io/factory/resources/factory-contribute.svg)](https://codenvy.io/f?id=factory8plp0h1t5ioyq5gb)
+
+**Use the following button to get a ready-to use Cisco Spark workspace.**
 
 You'll be asked to sign up at Codenvy.io before getting your workspace.
 
